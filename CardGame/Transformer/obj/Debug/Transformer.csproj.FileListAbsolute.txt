@@ -1,0 +1,6 @@
+D:\KIN\ConsoleApplication1\Transformer\bin\Debug\Transformer.exe.config
+D:\KIN\ConsoleApplication1\Transformer\bin\Debug\Transformer.exe
+D:\KIN\ConsoleApplication1\Transformer\bin\Debug\Transformer.pdb
+D:\KIN\ConsoleApplication1\Transformer\obj\Debug\Transformer.exe
+D:\KIN\ConsoleApplication1\Transformer\obj\Debug\Transformer.pdb
+D:\KIN\ConsoleApplication1\Transformer\obj\Debug\Transformer.csprojResolveAssemblyReference.cache
