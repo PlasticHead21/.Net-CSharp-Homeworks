@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfOption xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Option>
+    <OptionName>WiFi</OptionName>
+  </Option>
+  <Option>
+    <OptionName>GPS</OptionName>
+  </Option>
+  <Option>
+    <OptionName>Bluetooth</OptionName>
+  </Option>
+  <Option>
+    <OptionName>Dual Sim</OptionName>
+  </Option>
+</ArrayOfOption>

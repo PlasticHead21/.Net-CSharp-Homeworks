@@ -1,0 +1,11 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\WinFormsHomeWorks\MobileStore\bin\Debug\MobileStore.exe.config
+C:\Users\user\Documents\Visual Studio 2017\Projects\WinFormsHomeWorks\MobileStore\bin\Debug\MobileStore.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\WinFormsHomeWorks\MobileStore\bin\Debug\MobileStore.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\WinFormsHomeWorks\MobileStore\obj\Debug\MobileStore.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\WinFormsHomeWorks\MobileStore\obj\Debug\MobileStore.Form1.resources
+C:\Users\user\Documents\Visual Studio 2017\Projects\WinFormsHomeWorks\MobileStore\obj\Debug\MobileStore.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2017\Projects\WinFormsHomeWorks\MobileStore\obj\Debug\MobileStore.csproj.GenerateResource.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\WinFormsHomeWorks\MobileStore\obj\Debug\MobileStore.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\WinFormsHomeWorks\MobileStore\obj\Debug\MobileStore.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\WinFormsHomeWorks\MobileStore\obj\Debug\MobileStore.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\WinFormsHomeWorks\MobileStore\obj\Debug\MobileStore.AddPhoneForm.resources

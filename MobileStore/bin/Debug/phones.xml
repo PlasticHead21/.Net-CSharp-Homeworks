@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<ArrayOfPhoneInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PhoneInfo>
+    <options />
+    <Id>1</Id>
+    <Model>Samsung Galaxy S8 DualSim 64 GB</Model>
+    <OS>Android</OS>
+    <Processor>Exynos 8895</Processor>
+    <Price>1639.00</Price>
+    <Picture>Samsung Galaxy S8.jpg</Picture>
+  </PhoneInfo>
+  <PhoneInfo>
+    <options />
+    <Id>2</Id>
+    <Model>Apple iPhone X 64GB</Model>
+    <OS>Apple iOS</OS>
+    <Processor>Apple A11 Bionic</Processor>
+    <Price>2500.00</Price>
+    <Picture>Iphone X.jpeg</Picture>
+  </PhoneInfo>
+  <PhoneInfo>
+    <options />
+    <Id>3</Id>
+    <Model>Xiaomi Redmi 4X 16GB Black</Model>
+    <OS>Android</OS>
+    <Processor>Qualcomm Snapdragon</Processor>
+    <Price>410.00</Price>
+    <Picture>Redmi 4x.jpg</Picture>
+  </PhoneInfo>
+  <PhoneInfo>
+    <options />
+    <Id>4</Id>
+    <Model>HTC One X10</Model>
+    <OS>Android</OS>
+    <Processor>Mediatek</Processor>
+    <Price>520.00</Price>
+    <Picture>HTC One X.jpg</Picture>
+  </PhoneInfo>
+  <PhoneInfo>
+    <options />
+    <Id>5</Id>
+    <Model>Sony Xperia XA2 Dual 32GB</Model>
+    <OS>Android</OS>
+    <Processor>Qualcomm Snapdragon</Processor>
+    <Price>1019.16</Price>
+    <Picture>Sony Xperia.jpg</Picture>
+  </PhoneInfo>
+</ArrayOfPhoneInfo>
